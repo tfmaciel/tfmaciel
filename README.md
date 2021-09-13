@@ -22,18 +22,18 @@ Technology (CT)](https://ct.ufc.br/), UFC - Campus do Pici, Fortaleza, Environme
 - ✨ Professor at [Teleinformatics Engineering Post-Graduation Program
 (PPGETI)](https://ppgeti.ufc.br/), UFC, M.Sc. and Ph.D. in Teleinformatics Engineering courses, 2010 until now.
 - ✨ Associate Professor II at DETI, UFC, Telecommunications Engineering and Computer Engineering courses, 2015 until now.
-- Course vice-coordinator at DETI, UFC, Telecommunications Engineering course, 2017 to 2018.
-- Course coordinator at DETI, UFC, Telecommunications Engineering course, 2019 to 2022.
+- ✨ Course vice-coordinator at DETI, UFC, Telecommunications Engineering course, 2017 to 2018.
+- ✨ Course coordinator at DETI, UFC, Telecommunications Engineering course, 2019 to 2022.
 
 ### 🔭 Scholarships 🔭
-- ✨ Scientific Initiation Program at UFC, 1997 to 1999, financed by [National Council for Scientific and Technological Development
+- ✨ Scientific Initiation Program at UFC, 1997 to 1999, funded by [National Council for Scientific and Technological Development
 (CNPq)](https://www.gov.br/cnpq/pt-br).
-- ✨ Sandwich program at the [Technische Universitaet Hamburg-Harburg (TUHH)](https://www.tuhh.de/), 1999, financed by
+- ✨ Sandwich program at the [Technische Universitaet Hamburg-Harburg (TUHH)](https://www.tuhh.de/), 1999, funded by
 [German Academic Exchange Service (DAAD)](https://www.daad.de/)/[Coordination for the Improvement of Higher Education
 Personnel (CAPES)](https://www.gov.br/capes/pt-br).
-- ✨ M.Sc. at UFC, [Ceará State Foundation for Scientific and Technological Support (FUNCAP)](https://www.funcap.ce.gov.br/)
-- ✨ Ph.D. at TUD, 2005 to 2008, financed by DAAD/CAPES.
-- ✨ Productivity in Science, CNPq, 2016 until now.
+- ✨ M.Sc. at UFC, 2002 to 2003, funded by [Ceará State Foundation for Scientific and Technological Support (FUNCAP)](https://www.funcap.ce.gov.br/)
+- ✨ Ph.D. at TUD, 2005 to 2008, funded by DAAD/CAPES.
+- ✨ Productivity in Science, 2016 until now, funded by CNPq.
 
 ### 🔭 Research activities 🔭
 - ✨ [Wireless Telecommunications Research Group (GTEL)](https://gtel.ufc.br/) at the [Teleinformatics Engineering
@@ -60,11 +60,11 @@ management, smart antennas, optimization, and machine learning applied to teleco
 - ✨ With applied, motivated, and qualified post-graduation students, as well as other researchers
 
 ## 📫 How to reach me 📫
-- ✨ E-mail: maciel(at)ufc.br
-- <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="Linkedin" width="22px"/> [Linkedin](https://www.linkedin.com/in/tarcisio-maciel/)
+- 📫 E-mail: maciel(at)ufc.br
+- <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="Linkedin" width="20px"/> [Linkedin](https://www.linkedin.com/in/tarcisio-maciel/)
 - ✨ [Google Scholar](http://scholar.google.com/citations?user=PHgTVo0AAAAJ)
 - ✨ [ResearchID](https://publons.com/researcher/2586069/tarcisio-f-maciel/)
-- <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCID" width="22px"/> [ORCID](https://orcid.org/0000-0002-8861-1708)
+- <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCID" width="20px"/> [ORCID](https://orcid.org/0000-0002-8861-1708)
 - ✨ [Lattes](http://lattes.cnpq.br/2055476391340850)
 
 <!--
