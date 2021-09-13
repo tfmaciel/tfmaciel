@@ -61,10 +61,10 @@ management, smart antennas, optimization, and machine learning applied to teleco
 
 ## 📫 How to reach me 📫
 - ✨ E-mail: maciel(at)ufc.br
-- <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="drawing" width="12px"/> [Linkedin](https://www.linkedin.com/in/tarcisio-maciel/)
+- <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="Linkedin" width="22px"/> [Linkedin](https://www.linkedin.com/in/tarcisio-maciel/)
 - ✨ [Google Scholar](http://scholar.google.com/citations?user=PHgTVo0AAAAJ)
 - ✨ [ResearchID](https://publons.com/researcher/2586069/tarcisio-f-maciel/)
-- ![ORCID](https://orcid.org/assets/vectors/orcid.logo.icon.svg) [ORCID](https://orcid.org/0000-0002-8861-1708)
+- <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCID" width="22px"/> [ORCID](https://orcid.org/0000-0002-8861-1708)
 - ✨ [Lattes](http://lattes.cnpq.br/2055476391340850)
 
 <!--
