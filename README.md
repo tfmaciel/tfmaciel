@@ -48,8 +48,8 @@ management, smart antennas, optimization, and machine learning applied to teleco
 ## 🔭 Recent lectures 🔭
 - ✨ Introduction to Computer Programming (using C/C++)
 - ✨ Numerical Methods (using Python/Jupyter)
-- ✨ Nonlinear optimization
-- ✨ Error correction coding theory 
+- ✨ Nonlinear Optimization
+- ✨ Theory of Error Correction Coding 
 
 ## 🌱 Currently learning 🌱
 - ✨ C++17/C++20 (updating myself)
