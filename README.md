@@ -15,6 +15,16 @@ signal processing, and machine learning.
 - ✨ Dr.-Ing. degree, 2008, Electrical Engineering and Information Technology, [Technische Universitaet Darmstadt
 (TUD)](https://www.tu-darmstadt.de/), Darmstadt, Germany.
 
+### 🔭 Positions 🔭
+- ✨ Professor at UFC - Campus de Sobral, Sobral, Computer Engineering course, 2009.
+- ✨ Professor at the [Center of
+Technology (CT)](https://ct.ufc.br/), UFC - Campus do Pici, Fortaleza, Environmental and Energy Engineering course, 2010 to 2015.
+- ✨ Professor at [Teleinformatics Engineering Post-Graduation Program
+(PPGETI)](https://ppgeti.ufc.br/), UFC, M.Sc. and Ph.D. in Teleinformatics Engineering courses, 2010 until now.
+- ✨ Associate Professor II at DETI, UFC, Telecommunications Engineering and Computer Engineering courses, 2015 until now.
+- Course vice-coordinator at DETI, UFC, Telecommunications Engineering course, 2017 to 2018.
+- Course coordinator at DETI, UFC, Telecommunications Engineering course, 2019 to 2022.
+
 ### 🔭 Scholarships 🔭
 - ✨ Scientific Initiation Program at UFC, 1997 to 1999, financed by [National Council for Scientific and Technological Development
 (CNPq)](https://www.gov.br/cnpq/pt-br).
@@ -23,6 +33,7 @@ signal processing, and machine learning.
 Personnel (CAPES)](https://www.gov.br/capes/pt-br).
 - ✨ M.Sc. at UFC, [Ceará State Foundation for Scientific and Technological Support (FUNCAP)](https://www.funcap.ce.gov.br/)
 - ✨ Ph.D. at TUD, 2005 to 2008, financed by DAAD/CAPES.
+- ✨ Productivity in Science, CNPq, 2016 until now.
 
 ### 🔭 Research activities 🔭
 - ✨ [Wireless Telecommunications Research Group (GTEL)](https://gtel.ufc.br/) at the [Teleinformatics Engineering
@@ -31,17 +42,8 @@ management, and smart antennas.
 - ✨ [Communications Engineering Lab](https://www.kt.tu-darmstadt.de/fachgebiet_kt/index.en.jsp) at TUD, 2005 to 2008,
 worked on wireless communications, radio resource management, and smart antennas.
 - ✨ GTEL at DETI, UFC, 2009 to now, project coordination in wireless communications, radio resource
-management, smart antennas, optimization, and machine learning applied to telecommunications. 
+management, smart antennas, optimization, and machine learning applied to telecommunications.
 
-### 🔭 Positions 🔭
-- ✨ Professor at UFC - Campus de Sobral, Sobral, Computer Engineering course, 2009.
-- ✨ Professor at the [Center of
-Technology (CT)](https://ct.ufc.br/), UFC - Campus do Pici, Fortaleza, Environmental and Energy Engineering course, 2010 to 2015.
-- ✨ Professor at [Teleinformatics Engineering Post-Graduation Program
-(PPGETI)](https://ppgeti.ufc.br/), UFC, M.Sc. and Ph.D. in Teleinformatics Engineering courses, 2010 to now.
-- ✨ Associate Professor II at DETI, UFC, Telecommunications Engineering and Computer Engineering courses, 2015 to now.
-- Course vice-coordinator at DETI, UFC, Telecommunications Engineering course, 2017 to 2018.
-- Course coordinator at DETI, UFC, Telecommunications Engineering course, 2019 to 2022.
 
 ## 🔭 Recent lectures 🔭
 - ✨ Introduction to Computer Programming (using C/C++)
