@@ -2,45 +2,61 @@
 **tfmaciel/tfmaciel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### 🔭 About me 🔭
+## 🔭 About me 🔭
 
 I am currently a professor at the [Federal University of Ceará (UFC)](https://www.ufc.br/), in Fortaleza, Brazil,
-specialized in telecommunications. I received my Bachelor and Master of Science degrees from the same university in 2001
-and 2003, respectively. In 1999, I studied for one year at the [Technische Universitaet Hamburg-Harburg
-(TUHH)](https://www.tuhh.de/), in Hamburg, Germany as an exchange student funded by [German Academic Exchange Service
-(DAAD)](https://www.daad.de/)/[Coordination for the Improvement of Higher Education Personnel
-(CAPES)](https://www.gov.br/capes/pt-br). From 2001 to 2004, I developed research activities by the [Wireless
-Telecommunications Research Group (GTEL)](https://gtel.ufc.br/) of the [Teleinformatics Engineering Department
-(DETI)](https://deti.ufc.br/) at UFC working in the areas of wireless communications, radio resource management, and
-smart antennas. From 2005 to 2008, I did my Ph.D. studies by the [Communications Engineering
-Lab](https://www.kt.tu-darmstadt.de/fachgebiet_kt/index.en.jsp) of the [Technische Universitaet Darmstadt
-(TUD)](https://www.tu-darmstadt.de/), in Darmstadt, Germany, in the same areas, with funding from DAAD/CAPES. During my
-academic path, I also held scholarships from the [National Council for Scientific and Technological Development
-(CNPq)](https://www.gov.br/cnpq/pt-br) and CAPES during my undergraduation course and from the [Ceara State Foundation
-for Scientific and Technological Support (FUNCAP)](https://www.funcap.ce.gov.br/) during my M.Sc. course. In 2009, I got
-approved in a public selection and became professor at UFC - Campus de Sobral, Sobral, where I for one year by the
-Computer Engineering course. In 2010, I was approved in a new public selection as professor for the [Center of
-Technology (CT)](https://ct.ufc.br/) for UFC - Campus do Pici, Fortaleza. Since 2015, I am with DETI where I am
-currently Associate Professor II. I am also permanent member of the [Teleinformatics Engineering Post-Graduation Program
-(PPGETI)](https://ppgeti.ufc.br/) at UFC and a researcher at GTEL, where I develop research activities related to 5th
-and 6th generation wireless communication systems. My research interests include radio resource allocation, linear and
-nonlinear optimization, signal processing, and machine learning.
+specialized in telecommunications and develop research activities related to 5th and 6th generation wireless
+communication systems. My research interests include radio resource allocation, linear and nonlinear optimization,
+signal processing, and machine learning.
+ 
+### 🔭 Degrees 🔭
+- ✨ B.Sc. degree, 2001, Electrical Engineering, UFC.
+- ✨ M.Sc. degree, 2003, Electrical Engineering, UFC.
+- ✨ Dr.-Ing. degree, 2008, Electrical Engineering and Information Technology, [Technische Universitaet Darmstadt
+(TUD)](https://www.tu-darmstadt.de/), Darmstadt, Germany
 
-### 🔭 Recent lectures 🔭
-- ✨ Introduction to Computer Programming (in C/C++)
-- ✨ Numerical Methods (in Python/Jupyter)
+### 🔭 Scholarships 🔭
+- ✨ Scientific Initiation Program at UFC, 1997 to 1999, financed by [National Council for Scientific and Technological Development
+(CNPq)](https://www.gov.br/cnpq/pt-br)
+- ✨ Sandwich program at the [Technische Universitaet Hamburg-Harburg (TUHH)](https://www.tuhh.de/), 1999, financed by
+[German Academic Exchange Service (DAAD)](https://www.daad.de/)/[Coordination for the Improvement of Higher Education
+Personnel (CAPES)](https://www.gov.br/capes/pt-br)
+- ✨ M.Sc. at UFC, [Ceará State Foundation for Scientific and Technological Support (FUNCAP)](https://www.funcap.ce.gov.br/)
+- ✨ Ph.D. at TUD, 2005 to 2008, financed by DAAD/CAPES.
+
+### 🔭 Research activities 🔭
+- ✨ [Wireless Telecommunications Research Group (GTEL)](https://gtel.ufc.br/) at the [Teleinformatics Engineering
+Department (DETI)](https://deti.ufc.br/), UFC, 2001 to 2004, worked on wireless communications, radio resource
+management, and smart antennas. 
+- ✨ [Communications Engineering Lab](https://www.kt.tu-darmstadt.de/fachgebiet_kt/index.en.jsp) at TUD, 2005 to 2008,
+worked on wireless communications, radio resource management, and smart antennas.
+- ✨ GTEL at DETI, UFC, 2009 to now, project coordination in wireless communications, radio resource
+management, smart antennas, optimization, and machine learning applied to telecommunications. 
+
+### 🔭 Positions 🔭
+- ✨ Professor at UFC - Campus de Sobral, Sobral, Computer Engineering course, 2009. 
+- ✨ Professor at the [Center of
+Technology (CT)](https://ct.ufc.br/), UFC - Campus do Pici, Fortaleza, Environmental and Energy Engineering course, 2010 to 2015.
+- ✨ Professor at [Teleinformatics Engineering Post-Graduation Program
+(PPGETI)](https://ppgeti.ufc.br/), UFC, M.Sc. and Ph.D. on Teleinformatics courses, 2010 to now.
+- ✨ Associate Professor II at DETI, UFC, Telecommunications Engineering and Computer Engineering courses, 2015 to now.
+- Course vice-coordinator at DETI, UFC, Telecommunications Engineering course, 2017 to 2018.
+- Course coordinator at DETI, UFC, Telecommunications Engineering course, 2019 to 2021.
+
+## 🔭 Recent lectures 🔭
+- ✨ Introduction to Computer Programming (using C/C++)
+- ✨ Numerical Methods (using Python/Jupyter)
 - ✨ Nonlinear optimization
 - ✨ Error correction coding theory 
 
-### 🌱 Currently learning 🌱
-- ✨ C++17/C++20 (getting updated)
+## 🌱 Currently learning 🌱
+- ✨ C++17/C++20 (updating myself)
 - ✨ RUST
 - ✨ Deep Learning and Generative Adversarial Networks
 
-### 👯 Interested on collaboration on: 👯
-- ✨ Research projects with university and industry
-- ✨ Co-supervision of applied, motivated, and well-qualified post-graduation students abroad
-- ✨ Develop publicly available teaching material on communications engineering 
+## 👯 Interested on collaboration: 👯
+- ✨ In research projects with universities and industry
+- ✨ with applied, motivated, and well-qualified researchers and post-graduation students
 
 <!--
 - 🤔 I’m looking for help with ...
