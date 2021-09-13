@@ -44,7 +44,6 @@ worked on wireless communications, radio resource management, and smart antennas
 - ✨ GTEL at DETI, UFC, 2009 until now, project coordination in wireless communications, radio resource
 management, smart antennas, optimization, and machine learning applied to telecommunications.
 
-
 ## 🔭 Recent lectures 🔭
 - ✨ Introduction to Computer Programming (using C/C++)
 - ✨ Numerical Methods (using Python/Jupyter)
@@ -59,6 +58,14 @@ management, smart antennas, optimization, and machine learning applied to teleco
 ## 👯 Interested on collaboration: 👯
 - ✨ In research projects with universities and industry
 - ✨ With applied, motivated, and qualified post-graduation students, as well as other researchers
+
+## 📫 How to reach me 📫
+- ✨ E-mail: maciel(at)ufc.br
+- <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="drawing" width="12px"/> [Linkedin](https://www.linkedin.com/in/tarcisio-maciel/)
+- ✨ [Google Scholar](http://scholar.google.com/citations?user=PHgTVo0AAAAJ)
+- ✨ [ResearchID](https://publons.com/researcher/2586069/tarcisio-f-maciel/)
+- ![ORCID](https://orcid.org/assets/vectors/orcid.logo.icon.svg) [ORCID](https://orcid.org/0000-0002-8861-1708)
+- ✨ [Lattes](http://lattes.cnpq.br/2055476391340850)
 
 <!--
 - 🤔 I’m looking for help with ...
