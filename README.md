@@ -41,7 +41,7 @@ Department (DETI)](https://deti.ufc.br/), UFC, 2001 to 2004, worked on wireless 
 management, and smart antennas.
 - ✨ [Communications Engineering Lab](https://www.kt.tu-darmstadt.de/fachgebiet_kt/index.en.jsp) at TUD, 2005 to 2008,
 worked on wireless communications, radio resource management, and smart antennas.
-- ✨ GTEL at DETI, UFC, 2009 to now, project coordination in wireless communications, radio resource
+- ✨ GTEL at DETI, UFC, 2009 until now, project coordination in wireless communications, radio resource
 management, smart antennas, optimization, and machine learning applied to telecommunications.
 
 
