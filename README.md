@@ -34,10 +34,11 @@ signal processing, and machine learning.
 
 ## :zap: GitHub Stats
 
-[![Tarcisio Maciel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tfmaciel)](https://github.com/tfmaciel/github-readme-stats)
+[![Tarcisio Maciel's GitHub
+Stats](https://github-readme-stats.vercel.app/api?username=tfmaciel?count_private=true)](https://github.com/tfmaciel/github-readme-stats)
 
 <details>
-  <summary><h2> 🔭 More about me 🔭 <h2></summary>
+  <summary><h2>:zap: 🔭 More about me 🔭 <h2></summary>
 
 <!-- ## 🔭 More about me 🔭 -->
 
