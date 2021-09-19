@@ -9,11 +9,49 @@ specialized in telecommunications and develop research activities related to 5th
 communication systems. My research interests include radio resource allocation, linear and nonlinear optimization,
 signal processing, and machine learning.
  
+## 🌱 Currently learning 🌱
+- ✨ C++17/C++20 (updating myself)
+- ✨ RUST
+- ✨ Deep Learning and Generative Adversarial Networks
+
+## 👯 Interested on collaboration: 👯
+- ✨ In research projects with universities and industry
+- ✨ With applied, motivated, and qualified post-graduation students, as well as other researchers
+
+## 📫 How to reach me 📫
+- 📫 E-mail: maciel(at)ufc.br
+- <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="Linkedin" width="20px"/> [Linkedin][LinkedIn]
+- ✨ [Google Scholar][GoogleScholar]
+- ✨ [ResearchID][ResearchID]
+- <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCID" width="20px"/> [ORCID][ORCID]
+- ✨ [Lattes][Lattes]
+
+## 🔭 Recent lectures 🔭
+- ✨ Introduction to Computer Programming (using C/C++)
+- ✨ Numerical Methods (using Python/Jupyter)
+- ✨ Nonlinear Optimization
+- ✨ Theory of Error Correction Coding 
+
+## :zap: GitHub Stats
+
+[![Tarcisio Maciel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tfmaciel)](https://github.com/tfmaciel/github-readme-stats)
+
+## 🔭 More about me 🔭
+
 ### 🔭 Degrees 🔭
 - ✨ B.Sc. degree, 2001, Electrical Engineering, UFC.
 - ✨ M.Sc. degree, 2003, Electrical Engineering, UFC.
 - ✨ Dr.-Ing. degree, 2008, Electrical Engineering and Information Technology, [Technische Universitaet Darmstadt
 (TUD)](https://www.tu-darmstadt.de/), Darmstadt, Germany.
+
+### 🔭 Research activities 🔭
+- ✨ [Wireless Telecommunications Research Group (GTEL)](https://gtel.ufc.br/) at the [Teleinformatics Engineering
+Department (DETI)](https://deti.ufc.br/), UFC, 2001 to 2004, worked on wireless communications, radio resource
+management, and smart antennas.
+- ✨ [Communications Engineering Lab](https://www.kt.tu-darmstadt.de/fachgebiet_kt/index.en.jsp) at TUD, 2005 to 2008,
+worked on wireless communications, radio resource management, and smart antennas.
+- ✨ GTEL at DETI, UFC, 2009 until now, project coordination in wireless communications, radio resource
+management, smart antennas, optimization, and machine learning applied to telecommunications.
 
 ### 🔭 Positions 🔭
 - ✨ Professor at UFC - Campus de Sobral, Sobral, Computer Engineering course, 2009.
@@ -34,38 +72,6 @@ Personnel (CAPES)](https://www.gov.br/capes/pt-br).
 - ✨ M.Sc. at UFC, 2002 to 2003, funded by [Ceará State Foundation for Scientific and Technological Support (FUNCAP)](https://www.funcap.ce.gov.br/)
 - ✨ Ph.D. at TUD, 2005 to 2008, funded by DAAD/CAPES.
 - ✨ Productivity in Science, 2016 until now, funded by CNPq.
-
-### 🔭 Research activities 🔭
-- ✨ [Wireless Telecommunications Research Group (GTEL)](https://gtel.ufc.br/) at the [Teleinformatics Engineering
-Department (DETI)](https://deti.ufc.br/), UFC, 2001 to 2004, worked on wireless communications, radio resource
-management, and smart antennas.
-- ✨ [Communications Engineering Lab](https://www.kt.tu-darmstadt.de/fachgebiet_kt/index.en.jsp) at TUD, 2005 to 2008,
-worked on wireless communications, radio resource management, and smart antennas.
-- ✨ GTEL at DETI, UFC, 2009 until now, project coordination in wireless communications, radio resource
-management, smart antennas, optimization, and machine learning applied to telecommunications.
-
-## 🔭 Recent lectures 🔭
-- ✨ Introduction to Computer Programming (using C/C++)
-- ✨ Numerical Methods (using Python/Jupyter)
-- ✨ Nonlinear Optimization
-- ✨ Theory of Error Correction Coding 
-
-## 🌱 Currently learning 🌱
-- ✨ C++17/C++20 (updating myself)
-- ✨ RUST
-- ✨ Deep Learning and Generative Adversarial Networks
-
-## 👯 Interested on collaboration: 👯
-- ✨ In research projects with universities and industry
-- ✨ With applied, motivated, and qualified post-graduation students, as well as other researchers
-
-## 📫 How to reach me 📫
-- 📫 E-mail: maciel(at)ufc.br
-- <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="Linkedin" width="20px"/> [Linkedin][LinkedIn]
-- ✨ [Google Scholar][GoogleScholar]
-- ✨ [ResearchID][ResearchID]
-- <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCID" width="20px"/> [ORCID][ORCID]
-- ✨ [Lattes][Lattes]
 
 <!--
 - 🤔 I’m looking for help with ...
