@@ -37,7 +37,7 @@ signal processing, and machine learning.
 [![Tarcisio Maciel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tfmaciel)](https://github.com/tfmaciel/github-readme-stats)
 
 <details>
-  <summary>## 🔭 More about me 🔭</summary>
+  <summary><h2> 🔭 More about me 🔭 <h2></summary>
 
 <!-- ## 🔭 More about me 🔭 -->
 
