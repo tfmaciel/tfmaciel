@@ -36,7 +36,10 @@ signal processing, and machine learning.
 
 [![Tarcisio Maciel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tfmaciel)](https://github.com/tfmaciel/github-readme-stats)
 
-## 🔭 More about me 🔭
+<details>
+  <summary>## 🔭 More about me 🔭</summary>
+
+<!-- ## 🔭 More about me 🔭 -->
 
 ### 🔭 Degrees 🔭
 - ✨ B.Sc. degree, 2001, Electrical Engineering, UFC.
@@ -72,6 +75,8 @@ Personnel (CAPES)](https://www.gov.br/capes/pt-br).
 - ✨ M.Sc. at UFC, 2002 to 2003, funded by [Ceará State Foundation for Scientific and Technological Support (FUNCAP)](https://www.funcap.ce.gov.br/)
 - ✨ Ph.D. at TUD, 2005 to 2008, funded by DAAD/CAPES.
 - ✨ Productivity in Science, 2016 until now, funded by CNPq.
+
+</details>
 
 <!--
 - 🤔 I’m looking for help with ...
