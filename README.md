@@ -35,7 +35,7 @@ signal processing, and machine learning.
 ## :zap: GitHub Stats
 
 [![Tarcisio Maciel's GitHub
-Stats](https://github-readme-stats.vercel.app/api?username=tfmaciel?count_private=true)](https://github.com/tfmaciel/github-readme-stats)
+Stats](https://github-readme-stats.vercel.app/api?username=tfmaciel)](https://github.com/tfmaciel/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tfmaciel)](https://github.com/tfmaciel/github-readme-stats)
 
