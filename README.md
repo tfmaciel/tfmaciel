@@ -61,11 +61,11 @@ management, smart antennas, optimization, and machine learning applied to teleco
 
 ## 📫 How to reach me 📫
 - 📫 E-mail: maciel(at)ufc.br
-- <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="Linkedin" width="20px"/> [Linkedin](https://www.linkedin.com/in/tarcisio-maciel/)
-- ✨ [Google Scholar](http://scholar.google.com/citations?user=PHgTVo0AAAAJ)
-- ✨ [ResearchID](https://publons.com/researcher/2586069/tarcisio-f-maciel/)
-- <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCID" width="20px"/> [ORCID](https://orcid.org/0000-0002-8861-1708)
-- ✨ [Lattes](http://lattes.cnpq.br/2055476391340850)
+- <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="Linkedin" width="20px"/> [Linkedin][LinkedIn]
+- ✨ [Google Scholar][GoogleScholar]
+- ✨ [ResearchID][ResearchID]
+- <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCID" width="20px"/> [ORCID][ORCID]
+- ✨ [Lattes][Lattes]
 
 <!--
 - 🤔 I’m looking for help with ...
@@ -74,6 +74,13 @@ management, smart antennas, optimization, and machine learning applied to teleco
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[LinkedIn]: https://www.linkedin.com/in/tarcisio-maciel/
+[GoogleScholar]: http://scholar.google.com/citations?user=PHgTVo0AAAAJ
+[ResearchID]: https://publons.com/researcher/2586069/tarcisio-f-maciel/
+[ORCID]: https://orcid.org/0000-0002-8861-1708
+[Lattes]: http://lattes.cnpq.br/2055476391340850
+
 
 <!-- Local Variables: -->
 <!-- fill-column: 120 -->
