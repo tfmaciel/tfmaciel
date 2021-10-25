@@ -5,14 +5,14 @@
 ## 🔭 About me 🔭
 
 I am currently a professor at the [Federal University of Ceará (UFC)](https://www.ufc.br/), in Fortaleza, Brazil,
-specialized in telecommunications and develop research activities related to 5th and 6th generation wireless
+specialized in telecommunications and I develop research activities related to 5th and 6th generation wireless
 communication systems. My research interests include radio resource allocation, linear and nonlinear optimization,
 signal processing, and machine learning.
  
 ## 🌱 Currently learning 🌱
+- ✨ Deep Learning and Generative Adversarial Networks
 - ✨ C++17/C++20 (updating myself)
 - ✨ Rust
-- ✨ Deep Learning and Generative Adversarial Networks
 
 ## 👯 Interested on collaboration: 👯
 - ✨ In research projects with universities and industry
@@ -22,8 +22,8 @@ signal processing, and machine learning.
 - 📫 E-mail: maciel(at)ufc.br
 - <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="Linkedin" width="20px"/> [Linkedin][LinkedIn]
 - ✨ [Google Scholar][GoogleScholar]
-- ✨ [ResearchID][ResearchID]
 - <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCID" width="20px"/> [ORCID][ORCID]
+- ✨ [ResearchID][ResearchID]
 - ✨ [Lattes][Lattes]
 
 ## 🔭 Recent lectures 🔭
@@ -40,6 +40,9 @@ signal processing, and machine learning.
 <!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tfmaciel)](https://github.com/tfmaciel/github-readme-stats) -->
 
 ## 🔭 More about me 🔭
+
+<details>
+  <summary>🔭 Details here 🔭 </summary>
 
 ### 🔭 Degrees 🔭
 - ✨ B.Sc. degree, 2001, Electrical Engineering, UFC.
@@ -76,6 +79,8 @@ Personnel (CAPES)](https://www.gov.br/capes/pt-br).
 - ✨ Ph.D. at TUD, 2005 to 2008, funded by DAAD/CAPES.
 - ✨ Productivity in Science, 2016 until now, funded by CNPq.
 
+</details>
+
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -93,4 +98,5 @@ Personnel (CAPES)](https://www.gov.br/capes/pt-br).
 
 <!-- Local Variables: -->
 <!-- fill-column: 120 -->
+<!-- ispell-local-dictionary: "en_US" -->
 <!-- End: -->
