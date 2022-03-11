@@ -24,6 +24,7 @@ signal processing, and machine learning.
 - ✨ [Google Scholar][GoogleScholar]
 - <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCID" width="20px"/> [ORCID][ORCID]
 - ✨ [ResearchID][ResearchID]
+- ✨ [DBLP][DBLP]
 - ✨ [Lattes][Lattes]
 
 ## 🔭 Recent lectures 🔭
@@ -92,6 +93,7 @@ Personnel (CAPES)](https://www.gov.br/capes/pt-br).
 [LinkedIn]: https://www.linkedin.com/in/tarcisio-maciel/
 [GoogleScholar]: http://scholar.google.com/citations?user=PHgTVo0AAAAJ
 [ResearchID]: https://publons.com/researcher/2586069/tarcisio-f-maciel/
+[DBLP]: https://dblp.org/pid/73/3044.html
 [ORCID]: https://orcid.org/0000-0002-8861-1708
 [Lattes]: http://lattes.cnpq.br/2055476391340850
 
