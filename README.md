@@ -11,7 +11,7 @@ signal processing, and machine learning.
  
 ## 🌱 Currently learning 🌱
 - ✨ Deep Learning and Generative Adversarial Networks
-- ✨ C++17/C++20 (updating myself)
+- ✨ C++17/C++20
 - ✨ Rust
 
 ## 👯 Interested on collaboration: 👯
