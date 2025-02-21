@@ -14,7 +14,7 @@ signal processing, and machine learning.
 - ✨ C++17/C++20
 - ✨ Rust
 
-## 👯 Interested on collaboration: 👯
+## Interested on collaboration: 
 - ✨ In research projects with universities and industry
 - ✨ With applied, motivated, and qualified post-graduation students, as well as other researchers
 
